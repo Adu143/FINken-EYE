@@ -14,7 +14,7 @@ This version of SVO has been tested under ROS Indigo with Ubuntu 14.04 LTS on OD
 
 ### Citations
 
-This project is based on the rpg_svo developed by Forster et. al and we are using it purely for academic purposes. For the latest updates and code please refer to https://github.com/uzh-rpg/rpg_svo:
+This project is based on the great `rpg_svo` developed by Forster et. al and we are using it purely for academic purposes. We express our sincere admiration for their work. For the latest updates and code please refer to https://github.com/uzh-rpg/rpg_svo:
 
 @inproceedings{Forster2014ICRA,
   author = {Forster, Christian and Pizzoli, Matia and Scaramuzza, Davide},
