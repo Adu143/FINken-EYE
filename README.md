@@ -14,14 +14,16 @@ This version of SVO has been tested under ROS Indigo with Ubuntu 14.04 LTS on OD
 
 ### Citations
 
-This project is based on the great `rpg_svo` developed by Forster et. al and we are using it purely for academic purposes. We express our sincere admiration for their work. For the latest updates and code please refer to https://github.com/uzh-rpg/rpg_svo:
+This project is based on the great `rpg_svo` developed by Forster et. al and we are using it purely for academic purposes. We express our sincere admiration for their work. For the latest updates and code please refer to https://github.com/uzh-rpg/rpg_svo.
 
+```
 @inproceedings{Forster2014ICRA,
   author = {Forster, Christian and Pizzoli, Matia and Scaramuzza, Davide},
   title = {{SVO}: Fast Semi-Direct Monocular Visual Odometry},
   booktitle = {IEEE International Conference on Robotics and Automation (ICRA)},
   year = {2014}
 }
+```
 
 ### Acknowledgements
 We thank Dr. Christoph Steup and Prof. Dr. Sanaz Mostaghim for all the advise and support, it was key to the successful completion of our project. We also thank all the staff in the SwarmLab for precisely setting up the equipment and materials required for our work.
