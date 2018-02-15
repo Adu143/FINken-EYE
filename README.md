@@ -2,9 +2,11 @@
 
 Please refer our wiki for instructions on installation and detailed documentation: https://github.com/Adu143/SVO/wiki
 
+For a summary of the project, please refer to our presentation slides: https://www.slideshare.net/MichaelMera/finken-eye-visual-slambased-position-estimation
+
 ### Abstract
 
-Our goal was to run Visual SLAM-based Position Estimation on the FINken Copters at the SwarmLab at Otto-von-Guericke University Magdeburg. http://www.is.ovgu.de/SwarmLab.html
+Our goal was to run Visual SLAM-based Position Estimation on the FINken Copters in the SwarmLab at Otto-von-Guericke University Magdeburg. http://www.is.ovgu.de/SwarmLab.html
 
 An approach towards positioning of the copters is based on optical tracking of the sourrounding environment. To this end, a camera together with a power-full embedded computer board was integrated on the copters. The camera observes the sourroundings of the copter an tries to find landmarks to compare them to the existing partial map. There are multiple ways to locate the copter in the map and to update the maps information. The goal of this project was to establish the hardware setup necessary to aquire visual information and process it in a seperate computing unit. Afterwards existing Visual SLAM algorithms were investigated for their usage in the indoor copter scenario. The most promising algorithm was then be implemented on the computing platform and optimized and evaluated for usage on futere projects in our lab to extend the functionality of our copter swarm.
 
