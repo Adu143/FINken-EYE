@@ -1,4 +1,4 @@
-## FINken eYe: SVO Semi-Direct Visual Odometry in FINken Copters
+## FINken eYe: SVO Semi-Direct Visual Odometry Onboard the FINken Copters
 
 Please refer our wiki for instructions on installation and detailed documentation: https://github.com/Adu143/SVO/wiki
 
