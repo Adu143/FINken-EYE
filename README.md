@@ -14,6 +14,9 @@ Our goal was to run Visual SLAM-based Position Estimation on the FINken Copters 
 
 An approach towards positioning of the copters is based on optical tracking of the sourrounding environment. To this end, a camera together with a power-full embedded computer board was integrated on the copters. The camera observes the sourroundings of the copter an tries to find landmarks to compare them to the existing partial map. There are multiple ways to locate the copter in the map and to update the maps information. The goal of this project was to establish the hardware setup necessary to aquire visual information and process it in a seperate computing unit. Afterwards existing Visual SLAM algorithms were investigated for their usage in the indoor copter scenario. The most promising algorithm was then be implemented on the computing platform and optimized and evaluated for usage on futere projects in our lab to extend the functionality of our copter swarm.
 
+### Acknowledgements
+We thank Dr. Christoph Steup and Prof. Dr. Sanaz Mostaghim for all the advise and support, it was key to the successful completion of our project. We also thank all the staff in the SwarmLab for precisely setting up the equipment and materials required for our work.
+
 ### Disclaimer
 
 This version of SVO has been tested under ROS Indigo with Ubuntu 14.04 LTS on ODROID C0 embedded board. This is research code, any fitness for a particular purpose is disclaimed.
@@ -31,7 +34,9 @@ This project is based on the great `rpg_svo` developed by Forster et. al and we 
 }
 ```
 
-### Acknowledgements
-We thank Dr. Christoph Steup and Prof. Dr. Sanaz Mostaghim for all the advise and support, it was key to the successful completion of our project. We also thank all the staff in the SwarmLab for precisely setting up the equipment and materials required for our work.
+### Contact
 
---------For any questions or comments: michael at meracontractors dot com or throught the repository--------
+For any questions or comments: michael at meracontractors dot com or throught the repository.
+
+
+![finkensito](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/27973788_10156280732990625_1335094655292425729_n.jpg?oh=b035b4f3556601ede6245dc7f3395e71&oe=5B13C150)
