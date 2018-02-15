@@ -1,4 +1,4 @@
-FINken eYe: SVO Semi-Direct Visual Odometry in FINken Copters
+# FINken eYe: SVO Semi-Direct Visual Odometry in FINken Copters
 
 Abstract: 
 
