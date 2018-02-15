@@ -32,4 +32,4 @@ This project is based on the great `rpg_svo` developed by Forster et. al and we 
 ### Acknowledgements
 We thank Dr. Christoph Steup and Prof. Dr. Sanaz Mostaghim for all the advise and support, it was key to the successful completion of our project. We also thank all the staff in the SwarmLab for precisely setting up the equipment and materials required for our work.
 
-* --------For any questions or comments: michael at meracontractors dot com or throught the repository--------
+--------For any questions or comments: michael at meracontractors dot com or throught the repository--------
