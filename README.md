@@ -1,6 +1,6 @@
-## FINken eYe: SVO Semi-Direct Visual Odometry in FINken Copters
+# FINken eYe: SVO Semi-Direct Visual Odometry in FINken Copters
 
-###Abstract: 
+### Abstract: 
 
 Our goal was ty run Visual SLAM-based Position Estimation on the FINken Copters at the SwarmLab at Otto-von-Guericke University Magdeburg. http://www.is.ovgu.de/SwarmLab.html
 
@@ -11,11 +11,11 @@ Please refer the wiki for instructions on installation and detailed documentatio
 
 https://github.com/Adu143/SVO/wiki
 
-###Disclaimer
+### Disclaimer
 
 This version of SVO has been tested under ROS Indigo with Ubuntu 14.04 LTS on ODROID C0 embedded board. This is research code, any fitness for a particular purpose is disclaimed.
 
-###Citations
+### Citations
 
 This project is based on the rpg_svo developed by Forster et. al and we are using it purely for academic purposes. For the latest updates and code please refer to https://github.com/uzh-rpg/rpg_svo:
 
