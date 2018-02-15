@@ -1,3 +1,5 @@
+![finkeneye](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/27867829_10156280685570625_1935328121628611094_n.jpg?oh=21b2ce771dc1f2bf95c99bb7d0e23301&oe=5B0AFE3E)
+
 ## FINken eYe: SVO Semi-Direct Visual Odometry Onboard the FINken Copters
 
 Please refer our wiki for instructions on installation and detailed documentation: https://github.com/Adu143/SVO/wiki
