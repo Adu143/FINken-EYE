@@ -2,7 +2,7 @@
 
 Please refer our wiki for instructions on installation and detailed documentation: https://github.com/Adu143/SVO/wiki
 
-For a summary of the project, please refer to our presentation slides: https://www.slideshare.net/MichaelMera/finken-eye-visual-slambased-position-estimation
+For a summary of the project, please refer to our [presentation slides] (https://www.slideshare.net/MichaelMera/finken-eye-visual-slambased-position-estimation).
 
 Video demonstration: Coming soon.
 
