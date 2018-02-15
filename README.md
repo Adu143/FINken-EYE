@@ -23,4 +23,4 @@ This project is based on the rpg_svo developed by Forster et. al and we are usin
   year = {2014}
 }
 
-* --------For any questions and comments: michael at meracontractors dot com or throught the repository--------
+* --------For any questions or comments: michael at meracontractors dot com or throught the repository--------
