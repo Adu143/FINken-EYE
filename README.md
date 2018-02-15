@@ -4,6 +4,8 @@ Please refer our wiki for instructions on installation and detailed documentatio
 
 For a summary of the project, please refer to our presentation slides: https://www.slideshare.net/MichaelMera/finken-eye-visual-slambased-position-estimation
 
+Video demonstration: Coming soon.
+
 ### Abstract
 
 Our goal was to run Visual SLAM-based Position Estimation on the FINken Copters in the SwarmLab at Otto-von-Guericke University Magdeburg. http://www.is.ovgu.de/SwarmLab.html
