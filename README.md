@@ -6,7 +6,9 @@ Please refer our wiki for instructions on installation and detailed documentatio
 
 For a summary of the project, please refer to our [presentation slides](https://www.slideshare.net/MichaelMera/finken-eye-visual-slambased-position-estimation).
 
-Video demonstration: Coming soon.
+Video demonstrationon on a Dataset: https://www.youtube.com/watch?v=2zl-lPfJE_o
+Video demonstration on Live Camera: Will be added soon.
+
 
 ### Abstract
 
