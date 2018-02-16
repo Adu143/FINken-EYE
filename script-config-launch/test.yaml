@@ -1,0 +1,11 @@
+cam_model: Pinhole
+cam_width: 640
+cam_height: 480
+cam_fx: 470.687771
+cam_fy: 472.169488
+cam_cx: 325.405552
+cam_cy: 181.674901
+cam_d0: -0.360377
+cam_d1: 0.106195
+cam_d2: -0.003018
+cam_d3: 0.004264

@@ -1,0 +1,17 @@
+<launch>
+  
+    <node pkg="svo_ros" type="vo" name="svo" clear_params="true" output="screen">
+    
+        <!-- Camera topic to subscribe to -->
+        <param name="cam_topic" value="/usb_cam/image_raw" type="str" />
+        <param name="framerate" value="70" />
+        
+        <!-- Camera calibration file -->
+        <rosparam file="/home/odroid/catkin_ws/src/rpg_svo/svo_ros/param/test.yaml" />
+        
+        <!-- Default parameter settings: choose between vo_fast and vo_accurate -->
+        <rosparam file="/home/odroid/catkin_ws/src/rpg_svo/svo_ros/param/vo_fast.yaml" />
+
+    </node>
+        
+</launch>
